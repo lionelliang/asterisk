@@ -2,7 +2,7 @@
 Asterisk configuration files
 
 简介
-Asterisk 是一个开放源代码的软件VoIP PBX系统，它是一个运行在Linux环境下的纯软件实施方案。这里配置文件在CenOS系系统搭建Astersik 11进行测试
+Asterisk 是一个开放源代码的软件VoIP PBX系统，它是一个运行在Linux环境下的纯软件实施方案。这写配置文件在CenOS系统搭建Astersik 11进行测试，实现了大部分功能配置并结合Sipcom与Sipmoble进行测试。
 
 核心应用
 Asterisk 作为程控交换机PBX，Asterisk 可以被配置为一个 IP 或混合的 PBX 的核心：交换呼叫、管理路由、使能特性，以及通过 IP、模拟线路（POTS）、以及数字（T1/E1）的联系同外部呼叫链接在一起。
